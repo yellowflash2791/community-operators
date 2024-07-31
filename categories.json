@@ -15,6 +15,7 @@
       "OpenShift Optional",
       "Security",
       "Storage",
-      "Streaming & Messaging"
+      "Streaming & Messaging",
+      "test"
    ]
 }
