@@ -75,7 +75,7 @@ jobs:
               labels: [ 'authorized-changes' ]
             })
 
-      # - name: "Mention reviewers if exist1"
+      # - name: "Mention reviewers if exist"
       #   uses: mshick/add-pr-comment@v1
       #   with:
       #     message: |
