@@ -97,7 +97,7 @@ jobs:
       #         labels: [ 'authorized-changes' ]
       #       })
 
-      # - name: Try to automerge
+      # - name: Try to automerge1
       #   uses: actions/github-script@v3
       #   continue-on-error: true
       #   with:
