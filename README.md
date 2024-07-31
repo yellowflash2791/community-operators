@@ -18,4 +18,3 @@ Full documentation is generated via [mkdoc](https://www.mkdocs.org/) and is loca
 Use the issue tracker in this repository to report bugs.
 
 [k8s-deprecated-guide]: https://kubernetes.io/docs/reference/using-api/deprecation-guide/#v1-22
-test
